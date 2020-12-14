@@ -2,17 +2,13 @@
 
 [About](index.md)
 
-[English]()
+[爱听的歌]()
 
-  * [A Thought on English](english/english-formula.md)
-  * [Phonetic Phonics](english/Phonetic-Phonics.md)
-  - - - -
-  * # Advanced
-  * [Stress and Syllables](english/stress.md)
+  * [爱听的歌](爱听的歌/爱听的歌-formula.md)
 
-[Math]()
+[烘焙日常]()
 
-  * [Levy Processes](math/levy_processes.md)
+  * [烘焙日常](烘焙日常/烘焙日常.md)
 
 [Coding](coding/PythonNote.md)
 
